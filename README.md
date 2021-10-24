@@ -1,0 +1,1 @@
+An algorithm that determines the type of triangle and throws errors for invalid triangles.
